@@ -1,0 +1,18 @@
+packages/pi-channels/README.md
+  h_78212b192cfe73 91-94
+packages/pi-channels/src/__tests__/bridge.test.ts
+  h_78212b192cfe73 49-54,213-267
+packages/pi-channels/src/bridge.ts
+  h_78212b192cfe73 8,486,671-698
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "5e515fbbdc5a9659b90dc30cd764af438b3b5073",
+  "prompts": {},
+  "humans": {
+    "h_78212b192cfe73": {
+      "author": "dragove <dragove@qq.com>"
+    }
+  }
+}
